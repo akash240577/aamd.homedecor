@@ -10,9 +10,9 @@ const productCategories = [
                 description: '8mm Emerald Bracelet.'
             },
             {
-                image: 'images/wall-art-2.jpg',
-                name: 'Abstract Metal Sculpture',
-                description: 'Modern abstract design crafted from recycled metal. Creates stunning shadows and adds a contemporary touch to any space. Weather-resistant for indoor and outdoor use.'
+                image: 'images/7-chakra-beads-2.jpg',
+                name: '7 Charkra Beads',
+                description: '8mm 7 Chakra Beads.'
             },
             {
                 image: 'images/wall-art-3.jpg',
