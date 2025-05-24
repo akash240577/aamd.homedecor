@@ -1,13 +1,13 @@
 // Product data
 const productCategories = [
     {
-        id: 'wall-art',
-        title: 'Wall Art',
+        id: 'bracelets',
+        title: 'Bracelets',
         products: [
             {
-                image: 'images/wall-art-1.jpg',
-                name: 'Rustic Wood Canvas',
-                description: 'A beautiful piece featuring reclaimed wood and natural textures. Perfect for adding warmth to your living room or bedroom. Hand-painted details make each piece unique.'
+                image: 'images/green-bracelet-1.jpg',
+                name: 'Emerald Bracelet',
+                description: '8mm Emerald Bracelet.'
             },
             {
                 image: 'images/wall-art-2.jpg',
